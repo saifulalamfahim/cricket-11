@@ -1,0 +1,27 @@
+.card-style{
+    background-color: blueviolet;
+    display: flex;
+    margin: 10px;
+    color: white;
+    width: 70%;
+    border-radius: 10px;
+    text-align: justify;
+}
+.Image-size{
+    width: 150px;
+}
+.card{
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.card2{
+    margin: 30px;
+}
+button{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
